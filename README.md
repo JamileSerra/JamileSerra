@@ -20,9 +20,9 @@ Projeto de modelagem de banco de dados com:
 
 ## 🧠 Tecnologias
 
-* SQL (MySQL)
-* Power BI (em evolução)
-* Excel
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ---
 
