@@ -7,12 +7,12 @@
 
 ## 🚀 Projetos em destaque
 
+Projeto de estudo em modelagem de banco de dados com SQL:
+
 🔹 **E-commerce Database SQL**  
-Projeto de estudo em modelagem de banco de dados com SQL  
 [🔗 Ver projeto](https://github.com/JamileSerra/ecommerce-database-sql)
 
 🔹 **Livraria Database SQL**  
-Projeto de estudo de banco de dados com consultas e análise em SQL  
 [🔗 Ver projeto](https://github.com/JamileSerra/livraria-database-sql)
 
 
