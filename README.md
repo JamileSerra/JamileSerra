@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Jamile Serra
 
-<!--
-**JamileSerra/JamileSerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição para a área de Dados
+💻 Focada em SQL, análise de dados e construção de projetos
+📊 Interesse em Data Analytics e Business Intelligence
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+
+🔹 [E-commerce Database SQL](https://github.com/JamileSerra/ecommerce-database-sql)
+Projeto de modelagem de banco de dados com:
+
+* Criação de schema completo
+* Relacionamentos N:N
+* Queries com JOIN, GROUP BY, HAVING
+* Regras de negócio (CPF/CNPJ, múltiplos pagamentos, entrega)
+
+---
+
+## 🧠 Tecnologias
+
+* SQL (MySQL)
+* Power BI (em evolução)
+* Excel
+
+---
+
+## 📈 Em evolução
+
+Atualmente estudando:
+
+* Análise de dados
+* Visualização com Power BI
+* Modelagem de dados
+
+---
+
+## 📫 Contato
+
+* LinkedIn: (https://www.linkedin.com/in/jamilealvesserra/)
