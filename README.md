@@ -8,13 +8,25 @@
 
 ## 🚀 Projetos em destaque
 
-🔹 [E-commerce Database SQL](https://github.com/JamileSerra/ecommerce-database-sql)
-Projeto de modelagem de banco de dados com:
+### 🔹 E-commerce Database SQL
+Projeto de estudo em modelagem de banco de dados com:
+- Criação de schema completo  
+- Relacionamentos N:N  
+- Queries com JOIN, GROUP BY e HAVING  
+- Regras de negócio (CPF/CNPJ, múltiplos pagamentos, entrega)  
 
-* Criação de schema completo
-* Relacionamentos N:N
-* Queries com JOIN, GROUP BY, HAVING
-* Regras de negócio (CPF/CNPJ, múltiplos pagamentos, entrega)
+🔗 https://github.com/JamileSerra/ecommerce-database-sql
+
+---
+
+### 🔹 Livraria Database SQL
+Projeto de estudo em banco de dados para uma livraria com:
+- Criação de schema relacional  
+- Inserção de dados para testes  
+- Consultas SQL para análise  
+- Uso de JOIN, GROUP BY, HAVING e atributos derivados  
+
+🔗 https://github.com/JamileSerra/livraria-database-sql
 
 ---
 
