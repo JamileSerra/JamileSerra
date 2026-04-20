@@ -8,7 +8,7 @@
 ## 🚀 Projetos em destaque
 
 🔹 **Dashboard de Vendas e Lucratividade - Power BI**  
-Dashboard interativo para análise de vendas, lucro e desempenho por país, produto e segmento. 
+Dashboard interativo para análise de vendas, lucro e desempenho por país, produto e segmento.
 [🔗 Ver projeto](https://github.com/JamileSerra/dashboard-vendas-powerbi)
 
 🔹 **Livraria Database SQL**  
