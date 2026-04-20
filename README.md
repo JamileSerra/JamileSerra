@@ -7,12 +7,12 @@
 
 ## 🚀 Projetos em destaque
 
-Projeto de estudo em modelagem de banco de dados com SQL:
-
-🔹 **E-commerce Database SQL**  
-[🔗 Ver projeto](https://github.com/JamileSerra/ecommerce-database-sql)
+🔹 **Dashboard de Vendas e Lucratividade - Power BI**  
+Análise de vendas, lucro e desempenho por país, produto e segmento com visualizações interativas.  
+[🔗 Ver projeto](https://github.com/JamileSerra/dashboard-vendas-powerbi)
 
 🔹 **Livraria Database SQL**  
+Modelagem de banco de dados relacional com uso de SQL.  
 [🔗 Ver projeto](https://github.com/JamileSerra/livraria-database-sql)
 
 
