@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou a Jamile Serra
 
-🎯 Em transição para a área de Dados  
-💻 Estudando SQL, análise de dados e construção de projetos  
+🎯 Em transição para a área de Dados, com foco em análise de dados e Business Intelligence. 
+💻 Desenvolvendo projetos práticos em SQL e Power BI com foco em análise de dados 
 📊 Interesse em Data Analytics e Business Intelligence
 
 
 ## 🚀 Projetos em destaque
 
 🔹 **Dashboard de Vendas e Lucratividade - Power BI**  
-Análise de vendas, lucro e desempenho por país, produto e segmento com visualizações interativas.  
+Dashboard interativo para análise de vendas, lucro e desempenho por país, produto e segmento. 
 [🔗 Ver projeto](https://github.com/JamileSerra/dashboard-vendas-powerbi)
 
 🔹 **Livraria Database SQL**  
