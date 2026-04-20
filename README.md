@@ -8,7 +8,7 @@
 ## 🚀 Projetos em destaque
 
 🔹 **Dashboard de Vendas e Lucratividade - Power BI**  
-Dashboard interativo para análise de vendas, lucro e desempenho por país, produto e segmento.  
+Dashboard interativo para análise de vendas e lucratividade, com foco em insights por país, produto e segmento.  
 [🔗 Ver projeto](https://github.com/JamileSerra/dashboard-vendas-powerbi)
 
 🔹 **Livraria Database SQL**  
@@ -25,7 +25,7 @@ Modelagem de banco de dados relacional com uso de SQL.
 
 ## 🎯 Objetivo
 
-Atuar na área de Dados, contribuindo com análise, visualização e melhoria de processos através de insights baseados em dados.
+Atuar na área de Dados, utilizando análise e visualização para gerar insights estratégicos e apoiar a tomada de decisão.
 
 
 ## 📫 Contato
