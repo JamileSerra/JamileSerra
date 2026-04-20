@@ -23,13 +23,9 @@ Modelagem de banco de dados relacional com uso de SQL.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 
-## 📈 Em evolução
+## 🎯 Objetivo
 
-Atualmente estudando:
-
-* Análise de dados
-* Visualização com Power BI
-* Modelagem de dados
+Atuar na área de Dados, contribuindo com análise, visualização e melhoria de processos através de insights baseados em dados.
 
 
 ## 📫 Contato
